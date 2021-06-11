@@ -1,0 +1,158 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+    width: auto;
+    box-sizing: border-box;
+    
+}
+
+.logo
+{
+    font-family: fantasy;
+    color: cornsilk;
+    padding-left: 20px;
+    padding-right: 50px;
+    width: 15%;
+    font-size: 22px;
+}
+
+nav{
+    height: 40px;
+    width: 100%;
+    background-color: rgb(56, 20, 28);
+    display: flex;
+    padding-top: 12px;
+    
+
+}
+
+.ni li a{
+    padding: 20px;
+    font-size: 15px;
+    font-family: cursive;
+    font-weight: bold;
+    color: white;
+    width: 23%;
+    border: white;
+    margin: 3px;
+    
+}
+
+.ni li a:hover{
+    color: black;
+    transition: 0.5s;
+
+}
+
+.ni{
+    display: flex;
+    font-family: monospace;
+    padding-right: 50px;
+    width: 55%;
+    
+}
+
+.sr{
+    display: flex;
+    
+}
+
+.tab{
+    height: 20px;
+    padding-right: 5px;
+    border-top: yellowgreen;
+}
+
+#movie{
+    box-sizing: border-box;
+}
+
+.ime{
+    height: 200px;
+}
+
+#empty{
+    height: 100px;
+}
+
+
+#mid{
+    height: 300px;
+    width: 100%;
+    background-color:rgba(10, 0,0,0.5);
+    display: flex;
+}
+
+#movie{
+    /* height: 300px;
+    width: 100%;
+    background-color:rgba(10, 0,0,0.5); */
+
+    padding-top: 50px;
+    padding-left: 15px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    margin: 2px;
+    border-color: black;
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2opx;
+    
+    border: black;
+    color: rgb(206, 110, 81);
+
+}
+
+.nm{
+    padding: 10px;
+
+}
+
+#bot{
+    height: 180px;
+    margin-top: 20px;
+    width: 100%;
+    background-color: rgba(10, 0,0,0.5);
+}
+#ne{
+    padding-left: 40%;
+}
+
+#bt{
+    display: flex;
+}
+
+#pa{
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#pa a{
+    color: darkslategray;
+}
+
+#oa{
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#oa a{
+    color: darkslategray;
+}
+
+#req{
+    height: 90px;
+}
+
+#com{
+    padding-left: 700px;
+}
+
+#empty{
+    padding-top: 50px;
+    padding-left: 1400px;
+}
